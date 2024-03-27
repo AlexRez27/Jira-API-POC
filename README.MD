@@ -2,8 +2,8 @@
 `У файлі Config.js в змінну apiToken вставити свій токен`
 
 ## INSTALATION
-`Node JS is required`
+Має бути вставновлений Node JS
 npm install
 
 ### RUN SCRIPT
-`In any terminal write command node script.js`
+`В будь-якому терміналі запустити node script.js`
