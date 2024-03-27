@@ -3,7 +3,7 @@
 
 ## INSTALATION
 Має бути вставновлений Node JS <br />
-npm install
+`npm install`
 
 ### RUN SCRIPT
 `В будь-якому терміналі запустити node script.js`
